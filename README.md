@@ -15,8 +15,8 @@ Photo of the finished product:
 <img src="pm_sensor_guts.jpg" alt="sensor" width=400/>
 
 A short list of materials:
-https://www.amazon.com/gp/product/B01JA58DHM/
-https://www.amazon.com/gp/product/B07HVSZ15G/
-https://www.amazon.com/gp/product/B07PZT3ZW2/
-https://www.amazon.com/Waveshare-Dust-Sensor-GP2Y1010AU0F-Conditioner/dp/B07P94LCFZ/
-https://www.amazon.com/gp/product/B07NWD5NTN/
+- https://www.amazon.com/gp/product/B01JA58DHM/
+- https://www.amazon.com/gp/product/B07HVSZ15G/
+- https://www.amazon.com/gp/product/B07PZT3ZW2/
+- https://www.amazon.com/Waveshare-Dust-Sensor-GP2Y1010AU0F-Conditioner/dp/B07P94LCFZ/
+- https://www.amazon.com/gp/product/B07NWD5NTN/
